@@ -162,3 +162,32 @@ export const Users = ({users}) => {
 
 ![image-25671024150903754](./assets/image-25671024150903754.png)
 
+`git add .`, `git commit -m 'first commit'`
+
+![image-25671024151007253](./assets/image-25671024151007253.png)
+
+`git remote add origin https://github.com/Jiraphat-DEV/engce301-final-lab-64543206005-3.git`
+
+![image-25671024151049374](./assets/image-25671024151049374.png)
+
+`git branch -M main`
+
+![image-25671024151126585](./assets/image-25671024151126585.png)
+
+`git push -u origin main`
+
+![image-25671024151146457](./assets/image-25671024151146457.png)
+
+## Step8
+
+เมื่อทำเสร็จแล้วให้ป้อน git url ของงานที่นี่
+
+```
+https://github.com/Jiraphat-DEV/engce301-final-lab-64543206005-3.git
+```
+
+## Step9
+
+ให้ download เอกสารนี้พร้อมเอกสารอธิบายและภาพระหว่างการทำงาน/ผลการทำงานเป็น pdf
+
+และส่งใน direct message ของ slack
